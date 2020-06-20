@@ -1,0 +1,57 @@
+/* Globals */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+h1,h2{
+    font-size: 36px;
+    text-align: center;
+}
+header{
+    height: 600px;
+    padding: 0;
+}
+
+main{
+    height: 600px;  
+}
+
+.about{
+    background-color: #7299FE ;
+}
+.about h2{
+    color: #1D06A7;
+    
+}
+.skills{
+    background-color: #9122FF ;
+}
+.skills h2{
+    color: #26CC4B;
+        }
+
+.portfolio{
+    background-color:#FFD233;
+}
+.portfolio h2{
+    color: #00AD84;
+}
+
+.customers{
+    background-color: #3F4E62;
+}
+.customers h2{
+    color: #ADFF28;
+}
+
+.contacts{
+background-color: #1687A0
+}
+.contacts h2{
+    color: #FF1B1B;
+}
+
+
+
+
+
