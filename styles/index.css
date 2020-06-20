@@ -8,11 +8,18 @@ body{
 h1,h2{
     font-size: 36px;
     text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h3{
+    margin: 0;
+    padding: 20px;  
+}
+figure {
+margin: 0;
 }
 header{
     width: 100%;
-    padding: 0;
-    margin: 0;
 }
 header figure{
 width: 100%;
